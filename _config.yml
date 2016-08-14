@@ -1,0 +1,14 @@
+layout_spectrum: 0.7211321592330933
+typography_spectrum: 0.058572550769895315
+color:
+  brandStrength: 0.09348393650725484
+  lightness: 0.37653521867468953
+  saturation: 0.7873186080250889
+  rhythmicContrast: 0.26211851206608117
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: lester
